@@ -1,1 +1,1 @@
-# titanic-prediction-model
+This project explores the Titanic dataset to build a model that predicts which passengers survived the Titanic shipwreck. It includes data cleaning, exploratory data analysis (EDA), and model training.
